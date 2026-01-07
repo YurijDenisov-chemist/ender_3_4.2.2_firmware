@@ -5,7 +5,7 @@ on:
     paths:
       - 'builds/**'
   schedule:
-    - cron:  '30 3 * * *'
+    - cron:  '28 7 * * *'
 
 jobs:
   create_builds:
