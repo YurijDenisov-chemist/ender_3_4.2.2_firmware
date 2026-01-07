@@ -4,5 +4,11 @@ module.exports = {
     meta: {
         stable_name: "my_ender_3_4.2.2-{{marlin_version}}-base_lin-{{uid}}",
         nightly_name: "my_ender_3_4.2.2-{{current_date}}-base_lin-{{uid}}"
-    
+    },
+    configuration: {
+        enable: [
+        ["HEATER_0_MAXTEMP", 350],
+        ["BED_MAXTEMP", 150]
+        ]}
+
 };
