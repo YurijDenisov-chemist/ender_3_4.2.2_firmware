@@ -6,7 +6,7 @@ module.exports = {
         //["BED_MAXTEMP", 150]
         //]
     meta: {
-        stable_name: "ender_3_4.2.2-{{marlin_version}}-base_lin-{{uid}}",
-        nightly_name: "ender_3_4.2.2-{{current_date}}-base_lin-{{uid}}"
+        stable_name: "MY_ender_3_4.2.2-{{marlin_version}}-base_lin-{{uid}}",
+        nightly_name: "MY_ender_3_4.2.2-{{current_date}}-base_lin-{{uid}}"
     }
 };
