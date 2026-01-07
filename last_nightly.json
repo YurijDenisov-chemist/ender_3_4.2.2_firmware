@@ -1,4 +1,9 @@
 {
+    "builds/MyConfig.js": {
+        "version": "e61469f8c1c588a7debf79cc5868ad0dc50f1e03",
+        "md5": "1c4fa9a412cd458d4f2cd05159d2d7fa",
+        "assetId": 337305810
+    },
     "builds/autoLevel5x5.js": {
         "version": "e61469f8c1c588a7debf79cc5868ad0dc50f1e03",
         "md5": "4be69e5b52aa3d6cb911b94c7c12a9a3",
