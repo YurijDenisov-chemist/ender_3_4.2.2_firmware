@@ -8,6 +8,6 @@ module.exports = {
         enable: [
         ["HEATER_0_MAXTEMP", 350],
         ["BED_MAXTEMP", 150]
-        ],},
+        ]}
 
 };
