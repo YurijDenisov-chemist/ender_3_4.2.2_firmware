@@ -7,7 +7,7 @@ module.exports = {
     },
     configuration: {
         enable: [
-        ["HEATER_0_MAXTEMP", 350],
+        ["HEATER_0_MAXTEMP", 330],
         ["BED_MAXTEMP", 150]
         ]}
 
